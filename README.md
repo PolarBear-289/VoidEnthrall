@@ -1,3 +1,5 @@
+Hackathon project
+
 ## Run Locally
 ```
 > Clone the repo
